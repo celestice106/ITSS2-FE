@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ...existing code... */
+
+:root {
+  --radius: 0.5rem; /* This is a common value for 'lg' rounding */
+  /* Or you might prefer: */
+  /* --radius: 0.75rem; */
+  /* Or even a specific pixel value: */
+  /* --radius: 8px; */
+
+  /* You might also have other variables here, like for colors or fonts */
+}
