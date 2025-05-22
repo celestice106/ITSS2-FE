@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/celestice106/ITSS2-FE",
+  "homepage": "https://celestice106.github.io/ITSS2-FE",
   "private": true,
   "dependencies": {
     "@radix-ui/react-label": "^2.1.7",

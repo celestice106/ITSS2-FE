@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/video" element={<VideoChat />} />
+        <Route path="/" element={<VideoChat />} />
         {/* Add more routes as needed */}
       </Routes>
     </>
